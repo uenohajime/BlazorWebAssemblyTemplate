@@ -1,0 +1,3 @@
+# BlazorWebAssemblyTemplate
+
+Visual Studioから生成したBlazor WebAssemblyのサンプルプロジェクトです。
